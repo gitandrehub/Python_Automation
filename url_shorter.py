@@ -4,7 +4,7 @@ base_url = "https://url-shortener-service.p.rapidapi.com/shorten"
 
 headers = {
 	"content-type": "application/x-www-form-urlencoded",
-	"X-RapidAPI-Key": "f380b72db7msh56a61c6e9441110p19b731jsnf8d601f12a72",
+	"X-RapidAPI-Key": "myapi",
 	"X-RapidAPI-Host": "url-shortener-service.p.rapidapi.com"
 }
 
